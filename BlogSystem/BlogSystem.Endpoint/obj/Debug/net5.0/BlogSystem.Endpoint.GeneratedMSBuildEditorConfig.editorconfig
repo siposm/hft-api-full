@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = BlogSystem.Endpoint
-build_property.ProjectDir = C:\Users\admin\Desktop\hft-api-init\BlogSystem\BlogSystem.Endpoint\
+build_property.ProjectDir = C:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Endpoint\

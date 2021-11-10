@@ -7390,11 +7390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Logic\\BlogSystem.Logic.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Logic\\BlogSystem.Logic.csproj",
       "projectName": "BlogSystem.Logic",
-      "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Logic\\BlogSystem.Logic.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Logic\\BlogSystem.Logic.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Logic\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7411,11 +7411,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj"
+            "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj"
             },
-            "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj"
+            "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj": {
+              "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVZ1u6d1yp67G1pFm05kmCh7KdMVpIc7btDfp5y2JXcI80V0Hq1XRDSF/E6tSoaRptCMgqePB2CtdXXqHkabLA==",
+  "dgSpecHash": "2ZlKt9eqR31JaA8grFwdQ9sYuL9jU250wbswJVQXr3Sbai4wwO5ncUAmM5qKMjXRLV46B+a01QrgYFnBiz8Smg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\hft-api-init\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
