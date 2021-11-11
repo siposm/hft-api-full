@@ -36,5 +36,12 @@ namespace BlogSystem.Endpoint.Controllers
             return blogLogic.GetBlogsWithRudeComments();
         }
 
+        // GET: stat/GetCommentNumberPerCategory
+        [HttpGet]
+        public IEnumerable<CommentNumberPerCategory> GetCommentNumberPerCategory()
+        {
+            return blogLogic.GetCommentNumberPerCategory();
+        }
+
     }
 }
