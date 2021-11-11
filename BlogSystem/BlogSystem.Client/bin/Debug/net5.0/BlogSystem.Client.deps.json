@@ -9,6 +9,8 @@
       "BlogSystem.Client/1.0.0": {
         "dependencies": {
           "BlogSystem.Data": "1.0.0",
+          "BlogSystem.Logic": "1.0.0",
+          "BlogSystem.Repository": "1.0.0",
           "Microsoft.AspNet.WebApi.Client": "5.2.7"
         },
         "runtime": {
@@ -1433,6 +1435,23 @@
         "runtime": {
           "BlogSystem.Data.dll": {}
         }
+      },
+      "BlogSystem.Logic/1.0.0": {
+        "dependencies": {
+          "BlogSystem.Data": "1.0.0",
+          "BlogSystem.Repository": "1.0.0"
+        },
+        "runtime": {
+          "BlogSystem.Logic.dll": {}
+        }
+      },
+      "BlogSystem.Repository/1.0.0": {
+        "dependencies": {
+          "BlogSystem.Data": "1.0.0"
+        },
+        "runtime": {
+          "BlogSystem.Repository.dll": {}
+        }
       }
     }
   },
@@ -2360,6 +2379,16 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "BlogSystem.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlogSystem.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlogSystem.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

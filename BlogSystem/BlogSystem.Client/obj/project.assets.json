@@ -2174,6 +2174,33 @@
         "runtime": {
           "bin/placeholder/BlogSystem.Data.dll": {}
         }
+      },
+      "BlogSystem.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BlogSystem.Data": "1.0.0",
+          "BlogSystem.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogSystem.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogSystem.Logic.dll": {}
+        }
+      },
+      "BlogSystem.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BlogSystem.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlogSystem.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlogSystem.Repository.dll": {}
+        }
       }
     }
   },
@@ -7416,11 +7443,23 @@
       "type": "project",
       "path": "../BlogSystem.Data/BlogSystem.Data.csproj",
       "msbuildProject": "../BlogSystem.Data/BlogSystem.Data.csproj"
+    },
+    "BlogSystem.Logic/1.0.0": {
+      "type": "project",
+      "path": "../BlogSystem.Logic/BlogSystem.Logic.csproj",
+      "msbuildProject": "../BlogSystem.Logic/BlogSystem.Logic.csproj"
+    },
+    "BlogSystem.Repository/1.0.0": {
+      "type": "project",
+      "path": "../BlogSystem.Repository/BlogSystem.Repository.csproj",
+      "msbuildProject": "../BlogSystem.Repository/BlogSystem.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "BlogSystem.Data >= 1.0.0",
+      "BlogSystem.Logic >= 1.0.0",
+      "BlogSystem.Repository >= 1.0.0",
       "Microsoft.AspNet.WebApi.Client >= 5.2.7"
     ]
   },
@@ -7430,11 +7469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\BlogSystem.Client.csproj",
+      "projectUniqueName": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\BlogSystem.Client.csproj",
       "projectName": "BlogSystem.Client",
-      "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\BlogSystem.Client.csproj",
+      "projectPath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\BlogSystem.Client.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\obj\\",
+      "outputPath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7451,8 +7490,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj": {
-              "projectPath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj"
+            "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj": {
+              "projectPath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Data\\BlogSystem.Data.csproj"
+            },
+            "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Logic\\BlogSystem.Logic.csproj": {
+              "projectPath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Logic\\BlogSystem.Logic.csproj"
+            },
+            "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj": {
+              "projectPath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj"
             }
           }
         }

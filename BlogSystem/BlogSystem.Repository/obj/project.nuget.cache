@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XYcP3nRMDaJxE75TThmw5rpOQzkEuslchw6M+R+ujKHTtGcvoViAoWT1hdwQGVcrRbG+Pw2vN1sRcS6Yp7CLHw==",
+  "dgSpecHash": "ljrPd2g3PaZYC406aS8emSgvEEtyywHGKts0a/88WOjiT9g/A6PsxkTRbGRwErD3RpL6njdEaJFRGC5foNbkDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj",
+  "projectFilePath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Repository\\BlogSystem.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

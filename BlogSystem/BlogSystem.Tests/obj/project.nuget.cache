@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Igm/Lo2UIxCXP2O1n0eyLzlgHIf+Mk2HPT/t2/9ig42/LWuIo//C3f85gBlE+SOyzBLD9naKzwl/Rc8vcSuuw==",
+  "dgSpecHash": "CZ4yOapY5gC9SWdugfvDj3mQfu7x4Qzk2dx2n/NzdNtR/kZ537vqMOBgW12rZ/Yr4NCBsIH8uXRaqHBUz2N3AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Tests\\BlogSystem.Tests.csproj",
+  "projectFilePath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Tests\\BlogSystem.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

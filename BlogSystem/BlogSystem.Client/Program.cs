@@ -1,5 +1,7 @@
 ﻿using BlogSystem.Data;
 using BlogSystem.Data.Models;
+using BlogSystem.Logic;
+using BlogSystem.Repository;
 //using blogsystem.logic;
 //using blogsystem.repository;
 using System;
@@ -61,7 +63,6 @@ namespace BlogSystem.Client
 
             var x = rserv.GetSingle<CategoryAndCount>("stat/GetLeastUsedCategory");
 
-            ;
 
 
 

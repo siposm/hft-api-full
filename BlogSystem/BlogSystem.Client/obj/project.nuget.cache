@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Eo2i3v7OE6ipsH3MN/z3nDKK4RbnGZ2coRY5vnDGiJtYYTkCp0qmgfWTAgrO/2YdppeqKAzG2Ymh86LIQL7OQ==",
+  "dgSpecHash": "c2+IGM/BnTsVV2CeQrkW9oTzL5sP5siNfcM11+v49/+QQKZOrwJaY2qk2gilNLPhG/+0T6mTKxZLJO6xDs0OSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\BlogSystem.Client.csproj",
+  "projectFilePath": "c:\\Users\\admin\\Desktop\\hft-api-full\\BlogSystem\\BlogSystem.Client\\BlogSystem.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
