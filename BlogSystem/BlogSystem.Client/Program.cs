@@ -63,7 +63,7 @@ namespace BlogSystem.Client
 
             var x = rserv.GetSingle<CategoryAndCount>("stat/GetLeastUsedCategory");
 
-
+            ;
 
 
 

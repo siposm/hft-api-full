@@ -73,6 +73,7 @@ c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\bin\Debug\net5.0\
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\bin\Debug\net5.0\BlogSystem.Data.dll
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\bin\Debug\net5.0\ref\BlogSystem.Data.dll
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\bin\Debug\net5.0\BlogSystem.Data.pdb
+c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.csproj.AssemblyReference.cache
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.AssemblyInfoInputs.cache
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.AssemblyInfo.cs
@@ -81,4 +82,3 @@ c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\ref\BlogSystem.Data.dll
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.pdb
 c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.genruntimeconfig.cache
-c:\Users\admin\Desktop\hft-api-full\BlogSystem\BlogSystem.Data\obj\Debug\net5.0\BlogSystem.Data.csproj.AssemblyReference.cache
