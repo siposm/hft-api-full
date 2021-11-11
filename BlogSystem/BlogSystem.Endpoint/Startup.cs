@@ -27,7 +27,7 @@ namespace BlogSystem.Endpoint
             services.AddTransient<IBlogRepository, BlogRepository>();
             services.AddTransient<ICommentRepository, CommentRepository>();
 
-            services.AddTransient<DbContext, BlogContext>();
+            services.AddSingleton<DbContext, BlogContext>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -41,7 +41,7 @@ namespace BlogSystem.Endpoint
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers(); // localhost:0123/ALMA --> ALMA kontrollerhez fordul
+                endpoints.MapControllers(); // localhost:0123/ALMA --> ALMA controller
             });
         }
     }
